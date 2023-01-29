@@ -63,8 +63,8 @@ Start the backend:
 java -jar [generated-jar-file].jar
 
 Team:
-Sri Datta Raghavendra
-Snehith Bikumandla
-Sami Abouelnaaj
-Salem Saleh
+Sri Datta Raghavendra,
+Snehith Bikumandla,
+Sami Abouelnaaj,
+Salem Saleh,
 Goli Rishik kumar
