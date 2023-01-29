@@ -1,6 +1,10 @@
 # tamuhack23
 
-This project is a web application that uses Spring Boot for the backend and React for the frontend.
+This project is a web application that uses Spring Boot for the backend and React for the frontend solving floor and team allocation based on their preferred, tolerated, no way team ids.
+
+Constraints:
+    Fill atleast 25% of the each floor
+
 Prerequisites
 
     Java 8 or higher
