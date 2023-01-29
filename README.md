@@ -61,3 +61,10 @@ Copy the generated jar file and the build folder from the frontend to the server
 Start the backend:
 
 java -jar [generated-jar-file].jar
+
+Team:
+Sri Datta Raghavendra
+Snehith Bikumandla
+Sami Abouelnaaj
+Salem Saleh
+Goli Rishik kumar
