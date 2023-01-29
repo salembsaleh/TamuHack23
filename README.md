@@ -66,5 +66,4 @@ Team:
 Sri Datta Raghavendra,
 Snehith Bikumandla,
 Sami Abouelnaaj,
-Salem Saleh,
-Goli Rishik kumar
+Salem Saleh
