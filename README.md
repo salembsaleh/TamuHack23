@@ -11,7 +11,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/[username]/[repository].git
+git clone https://github.com/snehith57624/tamuhack23.git
 
 Install the dependencies for the backend
 
